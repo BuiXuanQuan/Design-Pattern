@@ -45,7 +45,7 @@ public class Main {
 
  //=========================================================================//
         Scanner scanner = new Scanner(System.in);
-        while(true) {//khách đến liên tục
+        while(true) {
             //show message that customer see first
             menu.showMessage();
             System.out.println("----- Please pick one of the choice -----------\n");
